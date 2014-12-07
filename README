@@ -1,0 +1,10 @@
+Minimal Cocoa App for Basic Animation
+=====================================
+
+The source here shows how to initialize and run a Cocoa app but doing the work yourself.
+It also shows how to create a custom content view and updates and blits it to the screen non-stop.
+
+Created as part of my efforts to create a Mac version of the Handmade Hero project.
+See http://handmadehero.org/ for more.
+
+(c) 2014 by Arthur Langereis - @zenmumbler
